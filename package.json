@@ -1,0 +1,10 @@
+{
+  "name": "gods-eye-observer-market-terminal",
+  "version": "3.0.0",
+  "description": "The God's Eye - Observer Market Sentiment & Level Terminal",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 server.py"
+  },
+  "license": "MIT"
+}
